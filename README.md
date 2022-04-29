@@ -1,4 +1,4 @@
-# dunzoclonebackend
+# Dunzo Web Site (Clone)
 # 1. About the website:
 Dunzo is an Indian company that delivers groceries and essentials, food, fruits and vegetables. It also has local courier service to send packages within the city.
 # 2. Tech stack used:
